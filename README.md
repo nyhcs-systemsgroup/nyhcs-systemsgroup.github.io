@@ -1,3 +1,5 @@
+![Logo of NY HEALing Communities Study](/assets/images/HEAL_logo.jpg)
+
 # Systems Think Tank Consultation Request
 
 Thank you for your continued participation in the HEALing Communities Systems Think Tank!
