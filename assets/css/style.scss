@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background: #373a3c;
+}
+
+a {
+  color: #532565;
+}
+
+#header_wrap {
+  background: #532565;
+  background: linear-gradient(to top, #93103e, #532565);
+}
+#main_content_wrap {
+  background: #FFFFFF;
+  // background: #cabfbd;
+}
+
+#footer_wrap {
+  background: #373a3c;
+}
