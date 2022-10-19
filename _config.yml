@@ -1,4 +1,9 @@
-title: NY HEALing Communities Systems Think Tank
+title: NY HEALing Communities Study
 
 show_downloads: false
 remote_theme: pages-themes/slate@v0.2.0
+
+email: matthew.lootens@einsteinmed.edu
+
+github:
+  is_project_page: false
