@@ -14,4 +14,4 @@ Our portal is the primary way that NY-HCS communities can interact with the Syst
 
 Whether you need help navigating and using the interactive portal or would like someone to help brainstorm creative ways to use our System Dynamics model to inform your community's Phase 4 Action Planning process and the development of your SMART strategies, we are eager to help you!  Please reach out to us to schedule a consultation, and someone from our team will be in touch soon. 
 
-[Schedule a Consultation](https://einsteinmed.co1.qqualtrics.com/jfe/form/SV_3PGMAbS0ZzEkxZI)
+[Schedule a Consultation](https://einsteinmed.co1.qualtrics.com/jfe/form/SV_3PGMAbS0ZzEkxZI)
