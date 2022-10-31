@@ -15,11 +15,42 @@ a {
   background: #532565;
   background: linear-gradient(to top, #93103e, #532565);
 }
+
 #main_content_wrap {
   background: #FFFFFF;
-  // background: #cabfbd;
 }
 
 #footer_wrap {
   background: #373a3c;
+}
+
+.researcher {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: stretch;
+  gap: 0px 30px;
+  line-height: 5pt;
+}
+
+div.headshot {
+  flex: 1 0 25%;
+  max-width: 180px;
+  box-sizing: border-box;
+}
+
+img.headshot {
+  object-fit: scale-down;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+div.appointments {
+  flex: 1 1 70%;
+  box-sizing: border-box;
+}
+
+p#name {
+  font-weight: bold;
 }

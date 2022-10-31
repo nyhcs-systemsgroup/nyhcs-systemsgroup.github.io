@@ -7,3 +7,6 @@ email: matthew.lootens@einsteinmed.edu
 
 github:
   is_project_page: false
+
+collections:
+  research_team:

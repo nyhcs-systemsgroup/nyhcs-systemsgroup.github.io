@@ -1,3 +1,5 @@
-![Pictures and Affiliations of Research Group](/assets/images/about_1.png)
+---
+layout: about
+---
 
-![Pictures and Affiliations of Research Group (continued)](/assets/images/about_2.png)
+Meet our research staff.
