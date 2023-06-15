@@ -6,12 +6,12 @@ We are a multidisciplinary group of researchers affiliated with Albert Einstein 
 
 # System Dynamics Model Interactive Portal
 
-Our portal is the primary way that NY-HCS communities can interact with our system dynamics model. Each community accesses the portal with a unique PIN.  Please contact us if you do not have a PIN or have forgotten it.
+Our portal is the primary way that NY HCS communities can interact with our system dynamics model. Each community accesses the portal with a unique PIN.  Please contact us if you do not have a PIN or have forgotten it.
 
 #### **[Access the Interactive Portal](https://exchange.iseesystems.com/public/cscd/nih-heal-init/index.html)**
 
 # Systems Think Tank Consultation Request
 
-Whether you need help navigating and using the interactive portal or would like help brainstorming creative ways to use our system dynamics model to inform your community's Phase 4 Action Planning process and the development of your SMART strategies, we are eager to help you!  Please reach out to us to schedule a consultation, and someone from our team will be in touch soon. 
+Whether you need help navigating and using the interactive portal or would like help brainstorming creative ways to use our system dynamics model to inform your community's implementation activities and sustainability planning, we are eager to help you!  Please reach out to us to schedule a consultation, and someone from our team will be in touch soon. 
 
 #### **[Schedule a Consultation](https://einsteinmed.co1.qualtrics.com/jfe/form/SV_3PGMAbS0ZzEkxZI)**
