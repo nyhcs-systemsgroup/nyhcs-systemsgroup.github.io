@@ -15,3 +15,6 @@ Our portal is the primary way that NY HCS communities can interact with our syst
 Whether you need help navigating and using the interactive portal or would like help brainstorming creative ways to use our system dynamics model to inform your community's implementation activities and sustainability planning, we are eager to help you!  Please reach out to us to schedule a consultation, and someone from our team will be in touch soon. 
 
 #### **[Schedule a Consultation](https://einsteinmed.co1.qualtrics.com/jfe/form/SV_3PGMAbS0ZzEkxZI)**
+
+#### **[2023 SCRA Biennial Conference]**
+To access the New York State HCS system dynamics model, clikc [here](https://exchange.iseesystems.com/public/cscd/ny-hcs-system-dynamics-model-interactive-portal).
