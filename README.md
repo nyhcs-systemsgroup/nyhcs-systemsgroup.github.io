@@ -17,4 +17,5 @@ Whether you need help navigating and using the interactive portal or would like 
 #### **[Schedule a Consultation](https://einsteinmed.co1.qualtrics.com/jfe/form/SV_3PGMAbS0ZzEkxZI)**
 
 # **2023 SCRA Biennial Conference**
-To access the New York State HCS system dynamics model, click [here](https://exchange.iseesystems.com/public/cscd/ny-hcs-system-dynamics-model-interactive-portal).
+
+#### [New York State HCS System Dynamics Model](https://exchange.iseesystems.com/public/cscd/ny-hcs-system-dynamics-model-interactive-portal)
