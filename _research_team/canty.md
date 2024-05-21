@@ -1,6 +1,6 @@
 ---
 name: Turner Canty
-degree: MPH (candidate)
+degree: MPH
 title: Research Assistant
 department: Department of Health Policy and Management
 institution: CUNY Graduate School of Public Health and Health Policy
